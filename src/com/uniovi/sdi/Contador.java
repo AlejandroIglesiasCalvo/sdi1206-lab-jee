@@ -8,4 +8,3 @@ public class Contador {
 		total+=incremento;
 	}
 }
-
